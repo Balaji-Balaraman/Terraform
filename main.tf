@@ -87,9 +87,3 @@ data "aws_ami" "ubuntu" {
 
   owners = ["099720109477"] # Canonical
 }
-
-# Input Variables
-variable "key_name" {
-  description = "mykey"
-  type        = string
-}
