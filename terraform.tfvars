@@ -1,0 +1,5 @@
+subscription_id     = "2e64ac5c-bc96-4389-a5bb-fc1c2e7bf8d7"
+tenant_id           = "f609f5e5-b221-43f3-be25-48bb8ce0552e"
+location            = "eastus"
+resource_group_name = "Borderless-access-pilot"
+virtual_network_name = "bap-vnet"
